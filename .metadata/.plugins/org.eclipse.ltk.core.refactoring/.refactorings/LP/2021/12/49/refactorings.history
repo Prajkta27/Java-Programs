@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;mon.connectivity.java&apos; to &apos;Mongo.java&apos;&#x0D;&#x0A;- Original project: &apos;LP&apos;&#x0D;&#x0A;- Original element: &apos;mon.connectivity.java&apos;&#x0D;&#x0A;- Renamed element: &apos;mon.Mongo.java&apos;" description="Rename compilation unit &apos;connectivity.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;mon{connectivity.java" name="Mongo.java" references="false" stamp="1638339489045" version="1.0"/>
+</session>
